@@ -1,4 +1,39 @@
-img {
-    width: 500px;
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
+
+body {
+    margin: 10px auto;
+    width: 75%;
+}
+
+.calendar-container {
+    height: 500px;
+    overflow: auto;
+    background-color: rgb(212, 212, 212);
+    padding: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    float: left;
+    display: block;
+    width: 25%;
+    padding: 5px;
+    height: 40px;
+    border: 2px solid white;
+    background-color: purple;
+    color: white;
+}
+
+
 

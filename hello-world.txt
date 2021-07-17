@@ -1,1 +1,2 @@
-Hello World this is me! 
+This is going to end up becoming a scratch pad of a repo. Instead of creating new repos I will create new branches. The name of this repo is not accurate, but that's okay. 
+
