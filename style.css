@@ -25,6 +25,16 @@ h1 {
     margin: 10px auto;
     padding: 20px;
     border: 1px solid black;
+    border-radius: 24px;
     background-color: white;
     color: black;
+}
+
+.selection-container {
+    display: flex;
+    align-items: center;
+}
+
+label {
+    margin-right: 10px;
 }
